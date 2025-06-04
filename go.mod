@@ -1,6 +1,6 @@
 module github.com/bnllb/ut-bench
 
-go 1.24.1
+go 1.24.0
 
 replace github.com/armon/go-metrics => github.com/hashicorp/go-metrics v0.4.1
 
